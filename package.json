@@ -1,0 +1,23 @@
+{
+  "name": "projeto_midias",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franbs2/projeto_midias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franbs2/projeto_midias/issues"
+  },
+  "homepage": "https://github.com/franbs2/projeto_midias#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
